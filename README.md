@@ -7,9 +7,7 @@
 
 👨‍🚀 About Me
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="160" alt="Dancing Dev" />
-</div>I’m a 🧠 Machine Learning Engineer Trainee @ Moral Connection Pvt. Ltd., and I spend my days talking to APIs and nights fighting model drift like a vigilante.
+I’m a 🧠 Machine Learning Engineer Trainee @ Moral Connection Pvt. Ltd., and I spend my days talking to APIs and nights fighting model drift like a vigilante.
 
 > 🔧 I don’t just build AI apps. I architect scalable beasts.
 🤖 My idea of fun? LLM pipelines, CI/CD failures, and a 2 AM docker push.
@@ -35,9 +33,7 @@
 ⚔️ Can fight CV bugs with a single pip uninstall opencv-python && pip install opencv-python-headless
 
 
-<div align="center">
-  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="160" alt="Typing code gif" />
-</div>
+
 ---
 
 🛠️ Tech Stack
@@ -79,17 +75,6 @@
 📦 Open Source Tools I Use & Contribute To
 
      
-
-
----
-
-🎥 Project Demo GIFs
-
-Project	Description	Demo
-
-LLM PDF QnA Chatbot	Ask any question to multiple PDFs	<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTg4OWUzOGUzNmEwODhkNmI5YTVjYjIxNDg0NDBjOGE1YmI1NDkyYSZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif" width="260">
-Housing Price Prediction	ML regression for real-estate	<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDg0NjM4MjViOGE0ZmVhZGRlODQ3YjUyZGM0ZWI0M2ZjMDAxZjk3MyZjdD1n/dsKnRuALlWsZG/giphy.gif" width="260">
-
 
 
 ---
