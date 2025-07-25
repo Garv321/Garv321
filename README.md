@@ -1,90 +1,68 @@
 <h1 align="center">Hey 👋, I'm Garv Sharma</h1>
 <h3 align="center">🚀 Machine Learning Engineer Trainee @ Moral Connection Pvt. Ltd.</h3>
 <h4 align="center">🥑 NLP • Computer Vision • MLOps • LLM • FastAPI • AWS • GCP • AI Wizardry ⚙️</h4><p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1200&color=00FFEE&background=00000000&center=true&vCenter=true&multiline=true&width=1100&lines=🚀+Building+AI+Apps+with+FastAPI+%2C+LangChain+%2C+LLMs;☁️+Automating+MLOps+on+AWS+%7C+GCP+%7C+Airflow+%7C+MLflow;🤖+NLP+%7C+Computer+Vision+%7C+Recommendation+Engines;🧠+Debugging+at+2AM+because+why+not%3F;💥+Deploying+like+a+wizard" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=1000&lines=🚀+Building+ML+Apps+%2B+APIs+with+FastAPI+%2B+LLMs;☁️+Deploying+on+AWS+%2F+GCP+%2C+Airflow+%2C+MLflow;🔁+Model+Drift+Detection+%2B+Automation;💡+Production-Ready+NLP+%2C+CV+%2C+LLM+Solutions" alt="Typing SVG">
 </p>
 ---
 
-👨‍🚀 About Me
+👨‍💻 About Me
 
-I’m a 🧠 Machine Learning Engineer Trainee @ Moral Connection Pvt. Ltd., and I spend my days talking to APIs and nights fighting model drift like a vigilante.
+I'm a Machine Learning Engineer Trainee at Moral Connection Pvt. Ltd., where I build, scale, and deploy ML systems that solve real-world problems.
 
-> 🔧 I don’t just build AI apps. I architect scalable beasts.
-🤖 My idea of fun? LLM pipelines, CI/CD failures, and a 2 AM docker push.
-☕ Coffee + FastAPI = Peace of Mind
-🧪 Debugging is therapy. Model tuning is meditation.
-🧙‍♂️ Deploying code with logs so clean, you'd think it's sorcery.
+🔧 What I do:
 
+Build APIs with FastAPI & Flask
+
+Deploy & monitor on AWS | GCP
+
+Use LangChain, ChatGPT, Gemini, BERT
+
+Automate pipelines via Airflow, MLflow, Docker
+
+
+💭 Always exploring better ways to build reproducible, production-grade AI systems.
+
+
+---
+
+🚀 Tech Stack
+
+Languages: Python, SQL
+Libraries: NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch
+LLMs/NLP: HuggingFace, LangChain, BERT
+Backend: FastAPI, Flask, Docker
+Cloud: AWS, GCP
+MLOps: MLflow, Airflow
+
+
+---
+
+📜 Certifications
+
+Course	Date	Platform
+
+Generative AI Bootcamp - LangChain	May 2025	Udemy
+Python for Data Science	Mar 2025	Udemy
+Power BI for BI	Feb 2025	Udemy
+SQL for Data Science	Feb 2025	Udemy
+Google Advanced Data Analytics	2025	Coursera
 
 
 
 ---
 
-🧠 Geek Traits (a.k.a my Dev DNA)
-
-🌙 Debugs in dark theme only
-
-🧾 Dreams in JSON
-
-🦾 Automates everything—even alarms
-
-🗂️ Names his folders better than GitHub Copilot
-
-⚔️ Can fight CV bugs with a single pip uninstall opencv-python && pip install opencv-python-headless
-
-
-
----
-
-🛠️ Tech Stack
-
-💻 Languages
-
-
-
-
-📊 Data Science
-
-
-
-
-
-🤖 Deep Learning & LLMs
-
-
-
-
-
-
-⚙️ MLOps & Backend
-
-
-
-
-
-
-
-☁️ Cloud
-
-
-
-
-
----
-
-📦 Open Source Tools I Use & Contribute To
+📦 Open Source & Tools I Use
 
      
 
 
 ---
 
-📫 Contact
+🤝 Connect with Me
 
-<p align="center">
-  <a href="mailto:garvsharma835@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://github.com/Garv321"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
-</p>
+📸 Instagram • 💼 LinkedIn • 📧 Email
+
+
 ---
 
 👀 Profile Visitors
@@ -92,3 +70,7 @@ I’m a 🧠 Machine Learning Engineer Trainee @ Moral Connection Pvt. Ltd., and
 <p align="center">
   <img src="https://profile-counter.glitch.me/Garv321/count.svg" />
 </p>
+---
+
+✨ Stay curious, keep building, and write code that matters!
+
