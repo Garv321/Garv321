@@ -6,7 +6,7 @@
 <h3 align="center">⚙️ Machine Learning Engineer Trainee | NLP • LLMs • MLOps • GCP • FastAPI</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=0AE98D&center=true&vCenter=true&multiline=true&width=1000&lines=🚀+AI+Engineer+%7C+FastAPI+%2B+LLMs+%2B+LangChain;🌩️+Deploying+on+AWS+%2F+GCP+%7C+MLflow+%2B+Airflow;💡+NLP+%2F+Computer+Vision+%2F+Recommendation+Systems;🎯+Solving+Real+Problems+via+AI+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=1000&lines=🚀+AI+Engineer+%7C+FastAPI+%2B+LLMs+%2B+LangChain;🌩️+Deploying+on+AWS+%2F+GCP+%7C+MLflow+%2B+Airflow;💡+NLP+%2F+Computer+Vision+%2F+Recommendation+Systems;🎯+Solving+Real+Problems+via+AI+Systems" alt="Typing SVG" />
 </p>
 
 ---
@@ -48,18 +48,17 @@ I'm a Machine Learning Engineer Trainee at **Moral Connection Pvt. Ltd.** where 
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-0a90ea?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch" />
-  <img src="https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge&logo=huggingface" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn" />
-  <img src="https://img.shields.io/badge/MLflow-2C5BCC?style=for-the-badge&logo=mlflow" />
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws" />
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="40" height="40"/> </a>
+  <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> </a>
+  <a href="https://pytorch.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> </a>
+  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/> </a>
+  <a href="https://mlflow.org/" target="_blank"> <img src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" alt="mlflow" width="40" height="40"/> </a>
+  <a href="https://airflow.apache.org/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/47359?s=200&v=4" alt="airflow" width="40" height="40"/> </a>
+  <a href="https://huggingface.co/" target="_blank"> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/> </a>
+  <a href="https://cloud.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
+  <a href="https://aws.amazon.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-1.svg" alt="aws" width="40" height="40"/> </a>
 </p>
 
 ---
