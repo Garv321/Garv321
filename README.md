@@ -1,19 +1,27 @@
 <h1 align="center">Hi 👋, I'm Garv Sharma</h1>
-<h3 align="center">🚀 Machine Learning | FastAPI | LangChain | MLOps | Cloud Engineer</h3>
+<h3 align="center">Machine Learning Engineer Trainee @Moral Connection Pvt. Ltd.</h3>
+<h4 align="center">NLP • Computer Vision • MLOps • LLM | Python • FastAPI • Flask • AWS & GCP • Cloud Integration • AI Solutions</h4>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=AI+%7C+ML+%7C+MLOps+Engineer;FastAPI+%2B+LangChain+Developer;Cloud+Deployer+%7C+AWS+%2B+GCP;Open+Source+Contributor;Building+cool+AI+tools+for+the+world+%F0%9F%94%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer+%7C+FastAPI+%2B+LLMs+%2B+MLOps;Cloud+Deployment+on+AWS+%26+GCP;LangChain+%7C+MLflow+%7C+Airflow+%7C+Streamlit;Building+Production+AI+Systems+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
 
-### 👨‍💻 About Me:
-- 🔭 Building: **Resume Matcher API, LangChain PDF QnA Chatbot**
-- 🌱 Learning: **Vertex AI | RAG | GenAI APIs**
-- 💬 Ask me about: **FastAPI, MLOps, LangChain, Cloud Deployment**
-- 🎯 Goal: Build world-class ML tools that solve real-world problems
-- 📫 Email: garvsharma835@gmail.com
-- ⚡ Fun fact: I vibe to Punjabi songs without knowing Punjabi 😎
+### 👨‍💻 About Me
+
+I’m a Machine Learning Engineer Trainee at **Moral Connection Pvt. Ltd.**, where I design and deploy scalable end-to-end ML systems across **Natural Language Processing (NLP)**, **Computer Vision**, and **Recommendation Engines**.
+
+My core responsibilities include:
+- Building and deploying production-grade APIs using **FastAPI** and **Flask**
+- Leveraging **AWS** and **Google Cloud (GCP)** for scalable ML model deployment
+- Integrating advanced frameworks such as **BERT**, **LangChain**, and **LLM APIs** like **ChatGPT** and **Gemini**
+- Developing efficient ETL pipelines with **Apache Airflow**, **Pandas**, and **PySpark**
+- Fine-tuning models using **GridSearchCV** and **Optuna**
+- Managing experiments and CI/CD workflows using **MLflow** and **GitHub Actions**
+- Creating internal LLM-powered tools to enhance team productivity and reproducibility
+
+🚀 I'm passionate about building **robust, scalable, and production-grade AI solutions** that solve real-world problems.
 
 ---
 
@@ -74,7 +82,7 @@
 
 ### 🎥 Project Demo (GIF)
 
-> Place your GIF at `assets/demo.gif` inside this repo and it’ll auto-show
+> Save your demo video as `assets/demo.gif` in the repo to show your project action!
 
 <p align="center">
   <img src="assets/demo.gif" alt="Project Demo" width="100%" />
@@ -86,10 +94,10 @@
 
 | Tool | Use-case |
 |------|----------|
-| [LangChain](https://github.com/langchain-ai/langchain) | LLM apps & chains |
-| [FastAPI](https://github.com/tiangolo/fastapi) | High-speed backend APIs |
+| [LangChain](https://github.com/langchain-ai/langchain) | LLM chains & retrieval |
+| [FastAPI](https://github.com/tiangolo/fastapi) | Backend APIs |
 | [MLflow](https://github.com/mlflow/mlflow) | Experiment tracking |
-| [Streamlit](https://github.com/streamlit/streamlit) | Quick frontend for ML |
+| [Streamlit](https://github.com/streamlit/streamlit) | Interactive ML apps |
 
 ---
 
@@ -101,7 +109,8 @@
 
 ---
 
-### 🔗 Let's Connect
+### 📫 Let's Connect
+
 <p align="center">
   <a href="mailto:garvsharma835@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Garv321"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
