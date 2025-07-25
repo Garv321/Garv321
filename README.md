@@ -1,119 +1,112 @@
-<h1 align="center">Hi 👋, I'm Garv Sharma</h1>
-<h3 align="center">Machine Learning Engineer Trainee @ Moral Connection Pvt. Ltd.</h3>
-<h4 align="center">NLP • Computer Vision • MLOps • LLM | Python • FastAPI • Flask • AWS & GCP • Cloud Integration • AI Solutions</h4>
+<h1 align="center">Hey 👋, I'm Garv Sharma</h1>
+<h3 align="center">🚀 Machine Learning Engineer Trainee @ Moral Connection Pvt. Ltd.</h3>
+<h4 align="center">🥑 NLP • Computer Vision • MLOps • LLM • FastAPI • AWS • GCP • AI Wizardry ⚙️</h4>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=5000&pause=1000&color=00F700&center=true&vCenter=true&multiline=true&width=1000&lines=Machine+Learning+Engineer+Trainee+@+Moral+Connection+Pvt.+Ltd.;NLP+%7C+Computer+Vision+%7C+Recommendation+Systems;FastAPI+%2B+LangChain+%2B+LLMs+%2B+Flask;MLOps+%7C+Airflow+%7C+MLflow+%7C+Docker;Cloud+Deployment+on+AWS+and+GCP;Building+Scalable+Production+Grade+AI+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=0AE98D&center=true&vCenter=true&multiline=true&width=1000&lines=🚀+Building+Production-Ready+AI+Apps+using+FastAPI+%2B+LLMs+%2B+LangChain;🌩️+Deployed+on+AWS+%2F+GCP+%7C+MLOps+%2B+MLflow+%2B+Airflow;💡+NLP+%7C+Computer+Vision+%7C+Recommendation+Systems;🎯+Focused+on+Scalable%2C+Impactful+AI+Solutions" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-I’m a Machine Learning Engineer Trainee at **Moral Connection Pvt. Ltd.**, where I design and deploy scalable end-to-end ML systems across **Natural Language Processing (NLP)**, **Computer Vision**, and **Recommendation Engines**.
+I'm a Machine Learning Engineer Trainee at **Moral Connection Pvt. Ltd.**, crafting intelligent solutions with a passion for scalability and impact.
 
-My core responsibilities include:
-- Building and deploying production-grade APIs using **FastAPI** and **Flask**
-- Leveraging **AWS** and **GCP** for model deployment and scaling
-- Integrating frameworks like **BERT**, **LangChain**, and **LLM APIs** (ChatGPT, Gemini)
-- Building ETL pipelines with **Apache Airflow**, **Pandas**, and **PySpark**
-- Fine-tuning models with **GridSearchCV** and **Optuna**
-- Managing experiments with **MLflow**, CI/CD pipelines with **GitHub Actions**
-- Creating LLM-powered internal tools to enhance reproducibility and productivity
+🔧 My work revolves around:
+- Building production APIs with **FastAPI** & **Flask**
+- Using **LLMs** (ChatGPT, Gemini) via **LangChain**, **BERT**, etc.
+- Deploying on **AWS**, **GCP**, and automating with **Airflow**
+- Managing models with **MLflow**, tuning via **Optuna**, GridSearchCV
+- Building **ETL pipelines**, custom chatbots, and internal tooling
 
-🚀 I’m passionate about delivering scalable, impactful AI solutions that solve real-world challenges.
+🧠 My obsession: turning complex ML ideas into real-world magic 🌍.
 
 ---
 
-### 🧠 My Machine Learning Tech Stack
+### 🧠 Tech Toolbox
 
 #### 🚀 Languages  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-0a90ea?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### 📊 Data Science & ML  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)  
-![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)  
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn)  
-![XGBoost](https://img.shields.io/badge/XGBoost-AA0000?style=for-the-badge)  
-![LightGBM](https://img.shields.io/badge/LightGBM-63C51C?style=for-the-badge)
+#### 📊 Data Science  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas)
+![Numpy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
 
-#### 🧠 Deep Learning & LLM  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)  
-![Transformers](https://img.shields.io/badge/Huggingface-Transformers-yellow?style=for-the-badge&logo=huggingface)  
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+#### 🤖 Deep Learning & LLM  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+![Huggingface](https://img.shields.io/badge/-Huggingface-yellow?style=for-the-badge&logo=huggingface)
+![LangChain](https://img.shields.io/badge/-LangChain-000000?style=for-the-badge)
 
-#### 🧩 Deployment  
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)  
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
+#### 🧩 MLOps & Deployment  
+![FastAPI](https://img.shields.io/badge/-FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask)
+![Docker](https://img.shields.io/badge/-Docker-0db7ed?style=for-the-badge&logo=docker)
+![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=for-the-badge)
+![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=for-the-badge&logo=apacheairflow)
 
-#### ☁️ Cloud Platforms  
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws)  
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud)  
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render)
-
-#### 🔧 MLOps Tools  
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)  
-![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge)  
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow)  
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)
-
-#### 🧰 Tools  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)  
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)  
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+#### ☁️ Cloud  
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazon-aws)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=google-cloud)
 
 ---
 
 ### 📜 Certifications
 
-| Course | Date | Platform | Certificate |
-|--------|------|----------|-------------|
-| ✅ [Generative AI Bootcamp - NLP, Transformers & GenAI](https://www.udemy.com/certificate/UC-ec4841eb-7636-4a07-bdbf-0e465ddd1147/) | 18 May 2025 | Udemy | TechLink |
-| ✅ [Python for Data Science & ML Bootcamp](https://www.udemy.com/certificate/UC-9ce30de5-c7e2-464e-8b74-d8a5a9e1cd68/) | 31 Mar 2025 | Udemy | Jose Portilla |
-| ✅ [Microsoft Power BI for Business Intelligence](https://www.udemy.com/certificate/UC-643beb4c-219d-450a-bacd-5a3d13fdb2bf/) | 28 Feb 2025 | Udemy | Maven Analytics |
-| ✅ [Master SQL for Data Science](https://www.udemy.com/certificate/UC-6e78a9e6-0a36-47cf-8e4a-cdd5a1431a7d/) | 2 Feb 2025 | Udemy | Job Ready Programmer |
-| 🏆 [Google Advanced Data Analytics Specialization](https://www.coursera.org/account/accomplishments/specialization/6AXNGD968VXB) | 2025 | Coursera | Google |
+| 🏅 Course | 🗓️ Date | 🎓 Certificate |
+|----------|---------|----------------|
+| [Generative AI Bootcamp - Transformers & LangChain](https://www.udemy.com/certificate/UC-ec4841eb-7636-4a07-bdbf-0e465ddd1147/) | 18 May 2025 | ✅ Udemy |
+| [Python for Data Science & Machine Learning](https://www.udemy.com/certificate/UC-9ce30de5-c7e2-464e-8b74-d8a5a9e1cd68/) | 31 Mar 2025 | ✅ Udemy |
+| [Microsoft Power BI for Business Intelligence](https://www.udemy.com/certificate/UC-643beb4c-219d-450a-bacd-5a3d13fdb2bf/) | 28 Feb 2025 | ✅ Udemy |
+| [Master SQL for Data Science](https://www.udemy.com/certificate/UC-6e78a9e6-0a36-47cf-8e4a-cdd5a1431a7d/) | 2 Feb 2025 | ✅ Udemy |
+| [Google Advanced Data Analytics Specialization](https://www.coursera.org/account/accomplishments/specialization/6AXNGD968VXB) | 2025 | 🎓 Coursera |
 
 ---
 
-### 🎥 Project Demo (GIF)
-
-> Place your demo video as `assets/demo.gif` in the same repo to auto-show here:
+### 🎥 Demo Time
 
 <p align="center">
-  <img src="assets/demo.gif" alt="Project Demo" width="100%" />
+  <img src="assets/demo.gif" width="100%" alt="Project Demo" />
 </p>
 
 ---
 
-### 📦 Open Source Tools I Use & Contribute To
+### 📦 Open Source Tools I ❤️
 
-| Tool | Use-case |
-|------|----------|
-| [LangChain](https://github.com/langchain-ai/langchain) | LLM chains & retrieval |
-| [FastAPI](https://github.com/tiangolo/fastapi) | Backend APIs |
-| [MLflow](https://github.com/mlflow/mlflow) | Experiment tracking |
-| [Streamlit](https://github.com/streamlit/streamlit) | ML app frontends |
+| Tool | Why I Use It |
+|------|--------------|
+| [LangChain](https://github.com/langchain-ai/langchain) | RAG, LLM pipelines |
+| [MLflow](https://github.com/mlflow/mlflow) | Tracking & versioning |
+| [FastAPI](https://github.com/tiangolo/fastapi) | Scalable APIs |
+| [Streamlit](https://github.com/streamlit/streamlit) | Dashboards & UI |
 
 ---
 
 ### 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Garv321&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Garv321&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Garv321&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Garv321&theme=tokyonight" />
 </p>
 
 ---
 
-### 📫 Let's Connect
+### 📫 Let’s Connect
 
 <p align="center">
-  <a href="mailto:garvsharma835@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Garv321"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:garvsharma835@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Garv321">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Garv321)
+---
+
+<p align="center">👀 <b>Profile Visitors</b></p>
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Garv321.visitor-badge" />
+</p>
