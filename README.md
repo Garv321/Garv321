@@ -3,7 +3,7 @@
 <h4 align="center">🥑 NLP • Computer Vision • MLOps • LLM • FastAPI • AWS • GCP • AI Wizardry ⚙️</h4>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=0AE98D&center=true&vCenter=true&multiline=true&width=1000&lines=🚀+Building+Production-Ready+AI+Apps+using+FastAPI+%2B+LLMs+%2B+LangChain;🌩️+Deployed+on+AWS+%2F+GCP+%7C+MLOps+%2B+MLflow+%2B+Airflow;💡+NLP+%7C+Computer+Vision+%7C+Recommendation+Systems;🎯+Focused+on+Scalable%2C+Impactful+AI+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0AE98D&center=true&vCenter=true&multiline=true&width=1000&lines=🚀+Building+Production-Ready+AI+Apps+using+FastAPI+%2B+LLMs+%2B+LangChain;🌩️+Deployed+on+AWS+%2F+GCP+%7C+MLOps+%2B+MLflow+%2B+Airflow;💡+NLP+%7C+Computer+Vision+%7C+Recommendation+Systems;🎯+Focused+on+Scalable%2C+Impactful+AI+Solutions" alt="Typing SVG" />
 </p>
 
 ---
@@ -26,30 +26,30 @@ I'm a Machine Learning Engineer Trainee at **Moral Connection Pvt. Ltd.**, craft
 ### 🧠 Tech Toolbox
 
 #### 🚀 Languages  
-![Python](https://img.shields.io/badge/-Python-0a90ea?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0a90ea?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### 📊 Data Science  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas)
-![Numpy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 #### 🤖 Deep Learning & LLM  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-![Huggingface](https://img.shields.io/badge/-Huggingface-yellow?style=for-the-badge&logo=huggingface)
-![LangChain](https://img.shields.io/badge/-LangChain-000000?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Huggingface](https://img.shields.io/badge/Huggingface-FCC624?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
 
 #### 🧩 MLOps & Deployment  
-![FastAPI](https://img.shields.io/badge/-FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask)
-![Docker](https://img.shields.io/badge/-Docker-0db7ed?style=for-the-badge&logo=docker)
-![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=for-the-badge)
-![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=for-the-badge&logo=apacheairflow)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow)
 
 #### ☁️ Cloud  
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazon-aws)
-![GCP](https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=google-cloud)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ---
 
@@ -61,7 +61,7 @@ I'm a Machine Learning Engineer Trainee at **Moral Connection Pvt. Ltd.**, craft
 | [Python for Data Science & Machine Learning](https://www.udemy.com/certificate/UC-9ce30de5-c7e2-464e-8b74-d8a5a9e1cd68/) | 31 Mar 2025 | ✅ Udemy |
 | [Microsoft Power BI for Business Intelligence](https://www.udemy.com/certificate/UC-643beb4c-219d-450a-bacd-5a3d13fdb2bf/) | 28 Feb 2025 | ✅ Udemy |
 | [Master SQL for Data Science](https://www.udemy.com/certificate/UC-6e78a9e6-0a36-47cf-8e4a-cdd5a1431a7d/) | 2 Feb 2025 | ✅ Udemy |
-| [Google Advanced Data Analytics Specialization](https://www.coursera.org/account/accomplishments/specialization/6AXNGD968VXB) | 2025 | 🎓 Coursera |
+| [Google Advanced Data Analytics Specialization](https://www.coursera.org/account/accomplishments/specialization/6AXNGD968VXB) | 2024 | 🎓 Coursera |
 
 ---
 
@@ -108,5 +108,5 @@ I'm a Machine Learning Engineer Trainee at **Moral Connection Pvt. Ltd.**, craft
 
 <p align="center">👀 <b>Profile Visitors</b></p>
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Garv321.visitor-badge" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=visitors&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FGarv321%2Freadme" />
 </p>
