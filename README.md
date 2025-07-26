@@ -87,6 +87,7 @@ I'm a Machine Learning Engineer Trainee at **Moral Connection Pvt. Ltd.** where 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Garv321&show_icons=true&theme=react" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Garv321&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Garv321&show_icons=true&locale=en&layout=compact&theme=react" alt="Garv's Most Used Languages" />
 </p>
 
 ---
