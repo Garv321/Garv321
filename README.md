@@ -60,8 +60,8 @@ I'm a Machine Learning Engineer Trainee at **Moral Connection Pvt. Ltd.** where 
   <a href="https://xgboost.ai/" target="_blank"><img src="https://xgboost.ai/images/logo/xgboost-logo-trimmed.png" alt="XGBoost" width="40" height="40"/></a>
   <a href="https://lightgbm.readthedocs.io/" target="_blank"><img src="https://lightgbm.readthedocs.io/en/stable/_static/LightGBM_logo_grey_text.svg" alt="LightGBM" width="40" height="40"/></a>
   <a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="40" height="40"/></a>
-  <a href="https://www.langchain.com/" target="_blank"><img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/langchain-ipuhh4qo1jz5ssl4x0g2a.png/langchain-dp1uxj2zn3752pntqnpfu2.png?_a=DATAg1AAZAA0" alt="LangChain" width="40" height="40"/></a>
-  <a href="https://spacy.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/spacy.svg" alt="spaCy" width="40" height="40"/></a>
+  <a href="https://www.langchain.com/" target="_blank"><img src="https://cdn.brandfetch.io/idzf7Sjo28/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1751438886561" alt="LangChain" width="40" height="40"/></a>
+  <a href="https://spacy.io/" target="_blank"><img src="https://brandeps.com/logo-download/S/spaCy-logo-vector-01.svg" alt="spaCy" width="40" height="40"/></a>
   <a href="https://nltk.org/" target="_blank"><img src="https://pythonfix.com/pkg/n/nltk/nltk-banner.webp" alt="NLTK" width="40" height="40"/></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/></a>
   <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/></a>
