@@ -53,20 +53,35 @@ I'm a Machine Learning Engineer Trainee at **Moral Connection Pvt. Ltd.** where 
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> </a>
-  <a href="https://pytorch.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/> </a>
-  <a href="https://mlflow.org/" target="_blank"> <img src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" alt="mlflow" width="40" height="40"/> </a>
-  <a href="https://airflow.apache.org/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/47359?s=200&v=4" alt="airflow" width="40" height="40"/> </a>
-  <a href="https://huggingface.co/" target="_blank"> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/> </a>
-  <a href="https://cloud.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-1.svg" alt="aws" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/sql/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/sql.png" alt="SQL" width="40" height="40"/></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/></a>
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/></a>
+  <a href="https://xgboost.ai/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/XGBoost_logo.png" alt="XGBoost" width="40" height="40"/></a>
+  <a href="https://lightgbm.readthedocs.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/63/LightGBM_logo.svg" alt="LightGBM" width="40" height="40"/></a>
+  <a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="HuggingFace" width="40" height="40"/></a>
+  <a href="https://www.langchain.com/" target="_blank"><img src="https://pbs.twimg.com/profile_images/1661050603556515840/IjzDte6h_400x400.jpg" alt="LangChain" width="40" height="40"/></a>
+  <a href="https://spacy.io/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/spacy-2.svg" alt="spaCy" width="40" height="40"/></a>
+  <a href="https://nltk.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Nltk_logo.png" alt="NLTK" width="40" height="40"/></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="FastAPI" width="40" height="40"/></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
+  <a href="https://mlflow.org/" target="_blank"><img src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" alt="MLflow" width="40" height="40"/></a>
+  <a href="https://airflow.apache.org/" target="_blank"><img src="https://avatars.githubusercontent.com/u/47359?s=200&v=4" alt="Apache Airflow" width="40" height="40"/></a>
+  <a href="https://optuna.org/" target="_blank"><img src="https://avatars.githubusercontent.com/u/45478095?s=200&v=4" alt="Optuna" width="40" height="40"/></a>
+  <a href="https://dvc.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/dvc.svg" alt="DVC" width="40" height="40"/></a>
+  <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/></a>
+  <a href="https://matplotlib.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/></a>
+  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="40" height="40"/></a>
+  <a href="https://plotly.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" alt="Plotly" width="40" height="40"/></a>
+  <a href="https://cloud.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-1.svg" alt="AWS" width="40" height="40"/></a>
+  <a href="https://azure.microsoft.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/></a>
 </p>
 
 ---
+
 
 ### 📊 GitHub Stats
 
