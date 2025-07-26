@@ -59,7 +59,7 @@ I'm a Machine Learning Engineer Trainee at **Moral Connection Pvt. Ltd.** where 
   <a href="https://pytorch.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/></a>
   <a href="https://xgboost.ai/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/XGBoost_logo.png" alt="XGBoost" width="40" height="40"/></a>
   <a href="https://lightgbm.readthedocs.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/63/LightGBM_logo.svg" alt="LightGBM" width="40" height="40"/></a>
-  <a href="https://huggingface.co/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/huggingface.svg" alt="Hugging Face" width="40" height="40"/></a>
+  <a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="40" height="40"/></a>
   <a href="https://www.langchain.com/" target="_blank"><img src="https://raw.githubusercontent.com/dair-ai/Prompt-Engineering-Guide/main/images/langchain.png" alt="LangChain" width="40" height="40"/></a>
   <a href="https://spacy.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/spacy.svg" alt="spaCy" width="40" height="40"/></a>
   <a href="https://nltk.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Nltk_logo.png" alt="NLTK" width="40" height="40"/></a>
