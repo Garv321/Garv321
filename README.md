@@ -68,7 +68,7 @@ I'm a Machine Learning Engineer Trainee at **Moral Connection Pvt. Ltd.** where 
   <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
   <a href="https://airflow.apache.org/" target="_blank"><img src="https://avatars.githubusercontent.com/u/47359?s=200&v=4" alt="Airflow" width="40" height="40"/></a>
   <a href="https://mlflow.org/" target="_blank"><img src="https://viso.ai/wp-content/uploads/2024/03/mlflow.jpg" alt="MLflow" width="40" height="40"/></a>
-  <a href="https://optuna.org/" target="_blank"><img src="https://raw.githubusercontent.com/optuna/optuna/master/docs/images/optuna-logo.png" alt="Optuna" width="40" height="40"/></a>
+  <a href="https://optuna.org/" target="_blank"><img src="https://optuna.org/assets/img/optuna-logo@2x.png" alt="Optuna" width="40" height="40"/></a>
   <a href="https://dvc.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/dvc.svg" alt="DVC" width="40" height="40"/></a>
   <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/></a>
   <a href="https://matplotlib.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/></a>
