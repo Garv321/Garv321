@@ -32,7 +32,7 @@ I'm a Machine Learning Engineer Trainee at **Moral Connection Pvt. Ltd.** where 
 | [Python for Data Science & ML](https://www.udemy.com/certificate/UC-9ce30de5-c7e2-464e-8b74-d8a5a9e1cd68/) | Mar 2025 | Udemy |
 | [Microsoft Power BI](https://www.udemy.com/certificate/UC-643beb4c-219d-450a-bacd-5a3d13fdb2bf/) | Feb 2025 | Udemy |
 | [Master SQL for Data Science](https://www.udemy.com/certificate/UC-6e78a9e6-0a36-47cf-8e4a-cdd5a1431a7d/) | Feb 2025 | Udemy |
-| [Google Advanced Data Analytics](https://www.coursera.org/account/accomplishments/specialization/6AXNGD968VXB) | 2025 | Coursera |
+| [Google Advanced Data Analytics](https://www.coursera.org/account/accomplishments/specialization/6AXNGD968VXB) | Jun 2024 | Coursera |
 
 ---
 
