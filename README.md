@@ -93,6 +93,21 @@ I'm a Machine Learning Engineer Trainee at **Moral Connection Pvt. Ltd.** where 
 
 ---
 
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Garv321&theme=onestar&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+![snake gif](https://github.com/Garv321/Garv321/blob/output/github-contribution-grid-snake.svg)
+
+---
 
 ### 📫 Connect With Me
 
