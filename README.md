@@ -21,6 +21,9 @@ I'm a Machine Learning Engineer Trainee at **Moral Connection Pvt. Ltd.** where 
 - ☁️ Deploying on **AWS**, **GCP**, and automating with **Airflow**, **MLflow**
 - 🧠 Leveraging **LLMs** like ChatGPT, Gemini, BERT
 - ⚙️ Obsessed with reproducibility, automation, and smart pipelines
+-  🧪 Obsessed with reproducibility, CI/CD, and well-logged pipelines
+- 🚨 Model drift? Bring it on — I fight it with automation and coffee ☕
+- ✨ I believe great AI should not only work — it should scale, explain, and deploy
 
 ---
 
