@@ -1,6 +1,8 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-![Profile views](https://profile-counter.glitch.me/Garv321/count.svg)
+![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+
+![Profile views](https://komarev.com/ghpvc/?username=Garv321&label=PROFILE+VIEWS&color=0e75b6&style=flat)
 
 <h1 align="center">Hi 👋, I'm Garv Sharma</h1>
 <h3 align="center">⚙️ Machine Learning Engineer Trainee | NLP • LLMs • MLOps • GCP • FastAPI</h3>
