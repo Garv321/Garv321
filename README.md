@@ -62,7 +62,7 @@ I'm a Machine Learning Engineer Trainee at **Moral Connection Pvt. Ltd.** where 
   <a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="40" height="40"/></a>
   <a href="https://www.langchain.com/" target="_blank"><img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/langchain-ipuhh4qo1jz5ssl4x0g2a.png/langchain-dp1uxj2zn3752pntqnpfu2.png?_a=DATAg1AAZAA0" alt="LangChain" width="40" height="40"/></a>
   <a href="https://spacy.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/spacy.svg" alt="spaCy" width="40" height="40"/></a>
-  <a href="https://nltk.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Nltk_logo.png" alt="NLTK" width="40" height="40"/></a>
+  <a href="https://nltk.org/" target="_blank"><img src="https://pythonfix.com/pkg/n/nltk/nltk-banner.webp" alt="NLTK" width="40" height="40"/></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/></a>
   <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
@@ -75,7 +75,7 @@ I'm a Machine Learning Engineer Trainee at **Moral Connection Pvt. Ltd.** where 
   <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="40" height="40"/></a>
   <a href="https://plotly.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" alt="Plotly" width="40" height="40"/></a>
   <a href="https://cloud.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://icons8.com/icon/G0CnLqqcRBXl/amazon-web-services" alt="AWS" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.icons8.com/?size=100&id=G0CnLqqcRBXl&format=png&color=000000" alt="AWS" width="40" height="40"/></a>
   <a href="https://azure.microsoft.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/></a>
 </p>
 
