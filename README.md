@@ -83,13 +83,14 @@ I'm a Machine Learning Engineer Trainee at **Moral Connection Pvt. Ltd.** where 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Garv321&show_icons=true&theme=react" alt="Garv's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Garv321&theme=react" alt="Garv's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Garv321&show_icons=true&theme=tokyonight" alt="Garv's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Garv321&theme=tokyonight" alt="Garv's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Garv321&show_icons=true&locale=en&layout=compact&theme=react" alt="Garv's Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Garv321&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Garv's Most Used Languages" />
 </p>
+
 
 ---
 
